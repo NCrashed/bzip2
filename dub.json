@@ -4,7 +4,7 @@
 	"license": "BSD",
 	"homepage": "http://www.bzip.org/",
 	"targetType": "sourceLibrary",
-	"libs-posix": ["bzip2"],
+	"libs-posix": ["bz2"],
 	"dependencies" : {
 	}
 }
