@@ -3,7 +3,7 @@
 	"description" : "Bindings for bzip2 library, a freely available, patent free, high-quality data compressor.",
 	"license": "BSD",
 	"homepage": "http://www.bzip.org/",
-	"targetType": "library",
+	"targetType": "sourceLibrary",
 	"libs-posix": ["bzip2"],
 	"dependencies" : {
 	}

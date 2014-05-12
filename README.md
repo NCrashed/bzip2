@@ -5,7 +5,7 @@ bzip2 D interface
 
 Library version: 1.0.6
 
-Status: Not ready
+Status: All headers are translated, but not tested
 
 License:
 ```
